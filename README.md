@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm Om Bankar  
+# 👋 Hello,  I'm Om Bankar  
 
 🎯 **Data Scientist | AI Engineer | NLP Explorer**  
 
